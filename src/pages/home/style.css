@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #22272E;
+}
+
+.logo {
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #c4343c;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-family: 'Rampart One', cursive;
+}
+
+.description {
+    color: aliceblue;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-start {
+    background-color: #7199c9;
+    color:#fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-start:hover {
+    background-color: #43678f;
+}
+
+.footer{
+    position: absolute;
+    bottom: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.author {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family: 'Dancing Script', cursive;
+}
