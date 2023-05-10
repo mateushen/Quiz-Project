@@ -23,10 +23,10 @@ O Quiz Project inclui os seguintes recursos:
 Para executar o projeto em sua máquina local, abra o prompt de comando e siga as seguintes etapas:
 
 1. Clone o repositório do projeto em sua máquina local.
-[git clone https://github.com/mateushen/Quiz-Project.git]
+- [git clone https://github.com/mateushen/Quiz-Project.git]
 
 2. Instale as dependências com npm.
-[npm install]
+- [npm install]
 
 3. Inicie o projeto localmente.
-[npm run dev]
+- [npm run dev]
