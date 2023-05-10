@@ -28,5 +28,6 @@ Para executar o projeto em sua máquina local, abra o prompt de comando e siga a
 2. Instale as dependências com npm.
 - [npm install]
 
+
 3. Inicie o projeto localmente.
 - [npm run dev]
